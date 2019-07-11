@@ -1,0 +1,23 @@
+{
+  "name": "Pomodoro",
+  "homepage": "https://github.com/sammffl/frontend-roadmap",
+  "authors": [
+    "samfec@163.com"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Jquery": "^3.4.1",
+    "normalize.css": "^8.0.1",
+    "font-awesome": "^5.9.0"
+  }
+}
